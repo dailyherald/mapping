@@ -1,0 +1,9 @@
+Standard deviation	Median household income
+< -1.5 std	$4,042 to $13,616
+-1.5 to -1	$13,616 to $31,355
+-1 to -0.5	$31,355 to $49.094
+-0.5 to 0.0 (avg)	$49,094 to $66,833
+0.0 to 0.5	$66,833 to $84,572
+0.5 to 1	$84,572 to $102,310
+1 to 2	$102,310 to $137,788
+2 and up	$137,788 and up

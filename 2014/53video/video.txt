@@ -1,0 +1,6 @@
+order;Vignette;video;lat;long
+1;Ziegler's Orchard;53/120vignettesZiegler;42.3328123;-88.10038447
+2;JCC Day Camp;120vignettemalvin;42.20161989;-88.0285871
+3;Prairie Crossing Farm;53/120vignetteliebov;42.33383542;-88.01604509
+4;Long Grove mayor;53/120vignettesMayor;42.17793906;-87.99782753
+5;County board chairman;53/120vignettesLawlor;42.31905008;-88.03233147

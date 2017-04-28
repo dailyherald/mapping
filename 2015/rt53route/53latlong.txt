@@ -1,0 +1,25 @@
+Description	Lat	Lon	Parcel
+route 53 and lake cook road	42.15402068104718	-88.01738351583481	
+fap sign on route 53 near long grove rd	42.16935166891772	-88.02444577217102	
+long grove menard's	42.15461124436885	-88.02271842956543	14-36-305-002
+heron creek marsh	42.19479239058406	-88.02314758300781	14-23-200-026
+surrey road in long grove	42.172784776167006	-88.02910476922989	14-26-402-006
+Route 22 in Kildeer where an interchange is planned	42.19717693341468	-88.03007304668427	14-23-200-006
+Old McHenry Road and Hillcrest Drive. state property sign and fap sign	42.206914869622814	-88.02976191043854	14-14-200-015
+Subdivision in Hawthorn woods	42.21400924585695	-88.0300998687744	14-11-408-001
+Home near Essex Court in Hawthorn Woods	42.21400924585695	-88.0300998687744	14-11-405-004
+Extension split to the west near grayslake, with Multiple parcels.	42.330424945788224	-88.04851055145262	14-26-402-006
+Route that splits a subdivision in Round lake just north of Park Campus school. Multiple parcels. 	42.33243952604982	-88.09249877929688	06-32-404-001
+Route 83 near mundelein.	42.26301832270576	-88.02773952484131	10-26-201-161
+Hawley Street in Mundelein, Multiple parcels	42.26987814377208	-88.02773952484131	10-26-210-048
+Subdivision in Mundelein between rt.83 and harley 	42.26922712799948	-88.0278468132019	10-26-211-045
+Rt 176 just west of Midlothian in Mundelein	42.276276794616145	-88.02422046661377	10-23-401-001
+Winchester just east of Rt83	42.299595409112065	-88.02370548248291	10-12-300-014
+FedEx property just west of Rt. 83 north of Peterson Rd near Grayslake. Parcel where the sign is	42.316860540957634	-88.02949905395508	10-02-401-103
+Route 120 between Wilson/Fairfield rd. possible northern intersection	42.333645070778715	-88.11756134033202	06-31-300-011
+route 120 near Hainesville. possible northern intersection 	42.34330445657061	-88.0774998664856	06-28-300-013
+Route 45 just south of Route 120 in grayslake. eastern split	42.33558023899751	-88.0043077468872	07-31-100-035
+Route 120 east side of Grayslake. possible eastern split intersection	42.340370317301726	-87.98263549804688	07-32-100-001
+Ziegler Orchard	42.3328995392649	-88.1001591682434	06-32-300-023
+	42.33356575933561	-88.01466107368469	06-36-300-027
+	42.29645686764122	-88.0233782529831	10-13-107-010
