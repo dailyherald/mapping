@@ -20,10 +20,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-9948924.42721138708293438</xmin>
-      <ymin>4452341.33627234119921923</ymin>
-      <xmax>-9817628.62039939872920513</xmax>
-      <ymax>4662988.47226176876574755</ymax>
+      <xmin>-9843186.0948006771504879</xmin>
+      <ymin>5076718.06808632705360651</ymin>
+      <xmax>-9745500.08015603944659233</xmax>
+      <ymax>5233442.64071935135871172</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -79,7 +79,7 @@
   <projectlayers>
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>ILcounties20170228101629076</id>
-      <datasource>../../LOCAL NON COMMERCIAL/ILcounties/ILcounties.shp</datasource>
+      <datasource>../../../shapefiles/ILcounties/ILcounties.shp</datasource>
       <shortname>ILcounties</shortname>
       <title></title>
       <abstract></abstract>
@@ -364,7 +364,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Interstates20170228102303916</id>
-      <datasource>../../LOCAL NON COMMERCIAL/major roads/Interstates.shp</datasource>
+      <datasource>../../../shapefiles/major roads/Interstates.shp</datasource>
       <shortname>Interstates</shortname>
       <title></title>
       <abstract></abstract>

@@ -1,18 +1,18 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis projectname="" version="2.14.0-Essen">
   <title></title>
-  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+  <layer-tree-group expanded="1" checked="Qt::Checked" name="">
     <customproperties/>
     <layer-tree-layer expanded="1" checked="Qt::Checked" id="hudPicture2016_tractsEdit20170228101034297" name="hudPicture2016_tractsEdit">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="ILcounties20170228101629076" name="ILcounties">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="ILcounties20170228101629076" name="ILcounties">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Interstates20170228102303916" name="Interstates">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="Interstates20170228102303916" name="Interstates">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="tl_2010_17_tract1020170228100515373" name="tl_2010_17_tract10">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="tl_2010_17_tract1020170228100515373" name="tl_2010_17_tract10">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -20,10 +20,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-0.88697053406998216</xmin>
-      <ymin>-0.16574585635359104</ymin>
-      <xmax>-0.63697053406998216</xmax>
-      <ymax>0.08425414364640896</ymax>
+      <xmin>-9948924.42721138708293438</xmin>
+      <ymin>4452341.33627234119921923</ymin>
+      <xmax>-9817628.62039939872920513</xmax>
+      <ymax>4662988.47226176876574755</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -60,19 +60,19 @@
         <legendlayerfile isInOverview="0" layerid="hudPicture2016_tractsEdit20170228101034297" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ILcounties" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ILcounties" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="ILcounties20170228101629076" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="ILcounties20170228101629076" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Interstates" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Interstates" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Interstates20170228102303916" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Interstates20170228102303916" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="tl_2010_17_tract10" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="tl_2010_17_tract10" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="tl_2010_17_tract1020170228100515373" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="tl_2010_17_tract1020170228100515373" visible="1"/>
       </filegroup>
     </legendlayer>
   </legend>
